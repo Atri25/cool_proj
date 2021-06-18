@@ -5,9 +5,13 @@ for my resolution
 
 The Ai is very strong and can perform task like telling weather, news, opening apps and etc
 
+#### Calculator
+
 The calculator has a delete button and can perform all task a normal calculator can.
 
 the design is bad sorry for that....
+
+#### AI
 
 To run my ai just type on your cmd:-
 ```bash
