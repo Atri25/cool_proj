@@ -156,7 +156,7 @@ if __name__ == "__main__":
             winshell.recycle_bin().empty(confirm = False, show_progress = False, sound = True) 
             speak("Recycle Bin Recycled")          
         elif 'play music' in query:
-             music_dir = 'D:\songs'
+             music_dir = 'E:\songs'
              music = os.listdir(music_dir) 
              print (music)
              os.startfile(os.path.join(music_dir, music[0]))   
