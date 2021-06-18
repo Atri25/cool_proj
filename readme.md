@@ -13,6 +13,10 @@ To run my ai just type on your cmd:-
 ```bash
   python Ai.py
 ```
+If you are on mack type if this shows error
+```bash
+  python3 Ai.py
+```
 
 I also wrote some stupids commits as I can't think much on them
 - [@Atri25](https://www.github.com/Atri25)
