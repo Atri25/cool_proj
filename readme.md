@@ -22,6 +22,6 @@ If you are on mack type if this shows error
   python3 Ai.py
 ```
 
-I also wrote some stupids commits as I can't think much on them
+I also wrote some stupid commits as I can't think much on them
 - [@Atri25](https://www.github.com/Atri25)
 
