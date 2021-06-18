@@ -25,6 +25,8 @@ If you are on mack type if this shows error
 #### Youtube video downloader
 This can help you download and video or single audio or even a playlist using this
 
+#### Folder_cleaner
+it makes your folders sorted like images in img folder and so on you may read the code for more info
 
 I also wrote some stupid commits as I can't think much on them
 - [@Atri25](https://www.github.com/Atri25)
