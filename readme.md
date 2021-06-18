@@ -11,7 +11,7 @@ the design is bad sorry for that....
 
 To run my ai just type on your cmd:-
 ```bash
-  npm run deploy
+  python Ai.py
 ```
 
 I also wrote some stupids commits as I can't think much on them
