@@ -17,7 +17,7 @@ To run my ai just type on your cmd:-
 ```bash
   python Ai.py
 ```
-If you are on mack type if this shows error
+If you are on mac type if this shows error
 ```bash
   python3 Ai.py
 ```
