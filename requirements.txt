@@ -1,0 +1,9 @@
+pyttsx3
+SpeechRecognition
+wikipedia
+pyjokes
+requests
+google==3.0.0
+pywhatkit
+youtube_dl
+winshell
